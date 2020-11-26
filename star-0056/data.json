@@ -1,0 +1,11 @@
+{
+    "star_id": 56,
+    "star_type": "nature",
+    "star_from_date": "2020-05-09",
+    "star_from_date_time": "00:00:00",
+    "star_to_date": "2020-05-10",
+    "star_to_date_time": "23:59:59",
+    "star_power": 200,
+    "star_active": 1,
+    "star_flag_enabled": 1
+}

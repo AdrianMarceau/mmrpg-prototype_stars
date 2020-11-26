@@ -1,0 +1,11 @@
+{
+    "star_id": 35,
+    "star_type": "wind",
+    "star_from_date": "2019-09-07",
+    "star_from_date_time": "00:00:00",
+    "star_to_date": "2019-09-08",
+    "star_to_date_time": "23:59:59",
+    "star_power": 200,
+    "star_active": 1,
+    "star_flag_enabled": 1
+}

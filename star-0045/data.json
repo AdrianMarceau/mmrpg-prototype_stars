@@ -1,0 +1,11 @@
+{
+    "star_id": 45,
+    "star_type": "swift",
+    "star_from_date": "2019-11-16",
+    "star_from_date_time": "00:00:00",
+    "star_to_date": "2019-11-17",
+    "star_to_date_time": "23:59:59",
+    "star_power": 300,
+    "star_active": 1,
+    "star_flag_enabled": 1
+}
