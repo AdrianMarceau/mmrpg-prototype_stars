@@ -1,0 +1,10 @@
+{
+    "star_id": 82,
+    "star_type": "explode",
+    "star_from_date": "2020-12-19",
+    "star_from_date_time": "00:00:00",
+    "star_to_date": "2020-12-20",
+    "star_to_date_time": "23:59:59",
+    "star_power": 500,
+    "star_flag_enabled": 1
+}
