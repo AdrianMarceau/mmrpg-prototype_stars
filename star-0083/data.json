@@ -1,0 +1,10 @@
+{
+    "star_id": 83,
+    "star_type": "flame",
+    "star_from_date": "2021-05-23",
+    "star_from_date_time": "00:00:00",
+    "star_to_date": "2021-05-24",
+    "star_to_date_time": "23:59:59",
+    "star_power": 100,
+    "star_flag_enabled": 1
+}
