@@ -1,0 +1,10 @@
+{
+    "star_id": 89,
+    "star_type": "shadow",
+    "star_from_date": "2021-10-22",
+    "star_from_date_time": "00:00:00",
+    "star_to_date": "2021-10-24",
+    "star_to_date_time": "23:59:59",
+    "star_power": 200,
+    "star_flag_enabled": 1
+}
