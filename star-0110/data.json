@@ -1,0 +1,10 @@
+{
+    "star_id": 110,
+    "star_type": "cutter",
+    "star_from_date": "2022-12-24",
+    "star_from_date_time": "00:00:00",
+    "star_to_date": "2022-12-25",
+    "star_to_date_time": "23:59:59",
+    "star_power": 300,
+    "star_flag_enabled": 1
+}
