@@ -1,0 +1,11 @@
+{
+    "star_id": 95,
+    "star_type": "explode",
+    "star_from_date": "2022-05-14",
+    "star_from_date_time": "00:00:00",
+    "star_to_date": "2022-05-15",
+    "star_to_date_time": "23:59:59",
+    "star_power": 300,
+    "star_active": 1,
+    "star_flag_enabled": 1
+}
